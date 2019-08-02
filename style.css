@@ -1,0 +1,30 @@
+	h1 {
+		color:blue;
+		text-align:center;
+	}
+	th,td{
+		border:1px solid  blue;
+	}
+	table,th{
+		border:2px solid black;
+		background: grey;
+		border-collapse: collapse;
+		text-align: center;
+		
+		
+	}
+	th{
+		background: white;
+		padding: 5px;
+	}
+	#first{
+		font-size: 24px;
+		color: red;
+	}
+	#second{
+		font-size: 16px
+	}
+	.name{
+		font-weight: bold;
+		color: blue
+	}
